@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+div{
+    width: 100%;
+    align-items: center;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+p{
+    color: white;
+    text-align: center;
+    margin-top: 0;
+}
+#first{
+    font-size: small;
+
+}
+.first{
+    border: solid white;
+    border-width: 5px;
+    align-items: center;
+    width: 100%;
+}
+.poster{
+    
+    width: 50%;
+}
